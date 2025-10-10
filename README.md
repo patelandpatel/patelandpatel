@@ -12,9 +12,10 @@
 ### 🛠️ Skills
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,postgres,tableau,docker,github,aws,gcp,fastapi,flask" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=python,postgres,docker,github,aws,gcp,fastapi,flask" alt="Skills" />
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48" height="48" alt="Tableau" style="margin-left: 4px;" />
+<img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="48" height="48" alt="Snowflake" style="margin-left: 4px;" />
 </p>
-
 ---
 
 ## 🚀 Featured Projects
