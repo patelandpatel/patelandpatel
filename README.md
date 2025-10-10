@@ -12,7 +12,7 @@
 ### 🛠️ Skills
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,postgres,docker,github,aws,gcp,fastapi,flask" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=python,postgres,Tableau,docker,github,aws,gcp,fastapi,flask" alt="Skills" />
 </p>
 
 ---
