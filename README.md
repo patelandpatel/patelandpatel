@@ -33,10 +33,10 @@ Analyzed e-commerce shopping habits dataset to identify purchase patterns and cu
 </td>
 <td width="33%">
 
-### 🤖 Churn Prediction Model
-Built ML model to predict customer churn with 89% accuracy using ensemble methods and feature engineering.  
-🔗 [Repo](https://github.com/patelandpatel/your-repo-name)  
-**Tags:** Classification, XGBoost, Scikit-learn
+### 📚 RAG Book Recommendation System
+Developed an intelligent book recommendation engine using a Retrieval-Augmented Generation (RAG) architecture. 
+🔗 [Repo](https://github.com/patelandpatel/RAG_Book_Recommendation)
+Tags: RAG, LLM, LangChain, OpenAI, Vector Search, Flask
 
 </td>
 <td width="33%">
