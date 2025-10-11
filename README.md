@@ -2,10 +2,10 @@
 
 ## Data Scientist | Machine Learning Engineer
 
-- 🔬 I build predictive models and extract insights from complex datasets
-- 📊 Passionate about turning data into actionable business solutions
-- 🤖 Experienced in deploying ML models to production environments
-- 📚 Continuously learning and sharing knowledge with the data science community
+- 🤖 Developing ML models (scikit-learn, XGBoost) for prediction and classification tasks
+- 🧠 Building AI agents with LangChain for automated reasoning and decision-making
+- 📚 Implementing RAG systems and NLP pipelines for semantic search and recommendations
+- 🚀 Deploying models with CI/CD pipelines (GitHub Actions, Docker) for automated releases
 
 ---
 
@@ -33,10 +33,10 @@ Analyzed e-commerce shopping habits dataset to identify purchase patterns and cu
 </td>
 <td width="33%">
 
-### 📚 RAG Book Recommendation System
+### 📚 RAG - Book Recommendation
 Developed an intelligent book recommendation engine using a Retrieval-Augmented Generation (RAG) architecture. 
 🔗 [Repo](https://github.com/patelandpatel/RAG_Book_Recommendation)
-Tags: RAG, LLM, LangChain, OpenAI, Vector Search, Flask
+**Tags:** LLM, LangChain, OpenAI, Vector Search, Flask
 
 </td>
 <td width="33%">
@@ -53,13 +53,14 @@ Created ETL pipeline and interactive Tableau dashboard for real-time sales analy
 ---
 
 ## 📊 GitHub Statistics
-
+<!-- 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patelandpatel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelandpatel&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
+</div>-->
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelandpatel&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=patelandpatel&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
@@ -67,8 +68,8 @@ Created ETL pipeline and interactive Tableau dashboard for real-time sales analy
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/PatelParth24/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Parth.Patel@my.utsa.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/PatelParth24/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:Parth.Patel@my.utsa.edu)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com) -->
 
 ---
