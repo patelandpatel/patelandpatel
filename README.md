@@ -60,9 +60,10 @@ Created ETL pipeline and interactive Tableau dashboard for real-time sales analy
 </div>-->
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelandpatel&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patelandpatel&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelandpatel&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="180" src="https://streak-stats.demolab.com?user=patelandpatel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+
 
 ---
 
