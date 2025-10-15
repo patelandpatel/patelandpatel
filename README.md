@@ -25,26 +25,26 @@
 <tr>
 <td width="33%">
 
-### 📊 Consumer Behavior Analysis
-Analyzed e-commerce shopping habits dataset to identify purchase patterns and customer segmentation insights.  
-🔗 [Repo](https://github.com/patelandpatel/Consumer-Behavior-and-Shopping-Habits-Dataset)  
-**Tags:** EDA, Customer Segmentation, Python
+### 📦 Backorder Prediction
+Developed ML-powered prediction system to forecast product backorders using ensemble methods.  
+🔗 [Repo](https://github.com/patelandpatel/backorder-prediction)  
+**Tags:** Python, ML, Django, Random Forest, LightGBM
 
 </td>
 <td width="33%">
 
 ### 📚 RAG - Book Recommendation
-Developed an intelligent book recommendation engine using a Retrieval-Augmented Generation (RAG) architecture. 
-🔗 [Repo](https://github.com/patelandpatel/RAG_Book_Recommendation)
-**Tags:** LLM, LangChain, OpenAI, Vector Search, Flask
+Developed an intelligent book recommendation engine using a Retrieval-Augmented Generation (RAG) architecture.  
+🔗 [Repo](https://github.com/patelandpatel/RAG_Book_Recommendation)  
+**Tags:**  LLM, LangChain, OpenAI, Vector Search, Flask
 
 </td>
 <td width="33%">
 
-### 📈 Sales Dashboard Pipeline
-Created ETL pipeline and interactive Tableau dashboard for real-time sales analytics and forecasting.  
-🔗 [Repo](https://github.com/patelandpatel/your-repo-name)  
-**Tags:** ETL, Tableau, PostgreSQL
+### 🔐 Phishing Domain Detection
+Developed end-to-end ML solution using XGBoost to detect malicious domains, deployed on Heroku with CI/CD pipeline using Docker.  
+🔗 [Repo](https://github.com/patelandpatel/phishing-domain-detection-mlproject-end-to-end-project)  
+**Tags:** XGBoost, Python, Docker, CI/CD, Heroku, MLOps
 
 </td>
 </tr>
