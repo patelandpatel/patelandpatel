@@ -51,21 +51,13 @@ Developed end-to-end ML solution using XGBoost to detect malicious domains, depl
 </table>
 
 ---
-<!--
+
 ## 📊 GitHub Statistics
- 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patelandpatel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelandpatel&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=patelandpatel&theme=dark&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelandpatel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelandpatel&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=patelandpatel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-
--->
 ---
 
 ## 📫 Let's Connect
